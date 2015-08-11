@@ -1,0 +1,152 @@
+body{
+    margin-top: 70px;
+    font-weight:300;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif!important;
+
+}
+#navbar ul li a{
+    color: #fff;
+}
+#navbar ul li a span
+{
+    color:#E5E801;
+}
+
+.yellow
+{
+    color:#E5E801;
+}
+#body
+{
+    background-image: url("../assets%20for%20praymobi/bg-desktop.png");
+    background-repeat: no-repeat;
+
+    background-size:1500px 700px;
+    width: 100%;
+    padding-top: 100px;
+//padding-bottom: 100px;
+}
+
+.container-fluid {
+    padding-right:55px;
+    padding-left: 55px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#auth
+{
+    background-color: #EFEFEF;
+    min-height: 400px;
+    padding: 15px;
+    border-radius:6px ;
+    margin-bottom: 76px;
+}
+.top-icon
+{
+    width: 60px;
+    padding: 15px;
+    border-radius: 50%;
+    background-color: #eee;
+    margin-top: -45px;
+
+}
+.social-login .f
+{
+    background-color: #3F5B98;
+}
+.social-login .a
+{
+    background-color: #4B2A7B;
+}
+.purple
+{
+    background-color: #4B2A7B;
+}
+.social-login .c
+{
+    background-color: #E5E801;
+}
+.social-login .btn{
+    border-radius: 9px;
+}
+.login-form
+{
+    border-radius: 6px;
+    overflow: hidden;
+    border:solid 2px #ccc;
+}
+.login-form .input-group,.login-form .input-group-addon,.login-form .form-control
+{
+    border-radius: 0px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    box-shadow: none;
+    border-color: #ccc;
+}
+.login-form input
+{
+    height: 40px;
+    background-color: #eee;
+    border-left: solid 1px #ccc!important;
+}
+
+.firstwelcome
+{
+    font-size: 6em;
+    color: #fff;
+    margin-top: -20px;
+    font-weight: 300;
+}
+.firstwelcome span
+{
+    color:  #E5E801;
+}
+.nextwelcome
+{
+    font-weight: 100;
+    line-height: 1.5;
+}
+
+.foot .navbar-nav
+{
+    background-color:  #4B2A7B;
+
+// padding: 25px;
+}
+.foot a{
+    color: #ccc;
+    border-left: outset 1px rgba(0,0,0,0.2);
+    background-color: transparent!important;
+
+}
+.foot li:last-of-type a
+{
+    border-right: outset 1px rgba(0,0,0,0.2)
+}
+.foot a:hover
+{
+    color: #fff;
+}
+
+.foot
+{
+    background-color:  #4B2A7B;
+
+}
+.foot .navbar
+{
+    float: none;
+}
+
+.foot .navbar-nav
+{
+    margin-left: 37%;
+}
+.testom
+{
+    color: #fff;
+    font-size: 1.2em;
+}

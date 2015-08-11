@@ -1,0 +1,63 @@
+body
+{
+    margin-top: 40px;
+
+}
+
+#body
+{
+    background-image: url("../assets%20for%20praymobi/bg-mobile.png");
+    background-size:100% 100%;
+}
+
+.navbar-brand
+{
+    margin-top: -15px;
+    width: 100%;
+
+}
+.navbar-brand img
+{
+    margin: auto;
+}
+
+.navbar-inverse .navbar-toggle
+{
+    display: none;
+}
+.firstwelcome
+{
+    font-size: 1.8em;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.container-fluid
+{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.nextwelcome,.testom
+{
+    display: none;
+}
+
+.foot .navbar-nav
+{
+    margin-left:0px;
+}
+
+.foot .nav>li
+{
+    display: inline-block;
+    font-size: 0.8em;
+}
+.social-login .btn img
+{
+    height:17px;
+}
+
+.social-login .btn
+{
+    font-size: 0.8em;
+    text-align: center;
+}
